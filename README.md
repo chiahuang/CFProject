@@ -12,7 +12,7 @@ localhost:8000/loanapp/
 2. Need one endpoint called status/ to provide a status on an application submitted given a loanapp id. Be creative about the status to return.
 localhost:8000/status/?id={loanapp id}
 
-First time working with Django. (List of cmds)
+(List of cmds)
 
 run the project: python manage.py runserver
 

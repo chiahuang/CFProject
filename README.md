@@ -14,11 +14,11 @@ localhost:8000/status/?id={loanapp id}
 
 (List of cmds)
 
-run the project: python manage.py runserver
+#run the project: python manage.py runserver
 
-python manage.py makemigrations
+#python manage.py makemigrations
 
-python manage.py migrate
+#python manage.py migrate
 
-python manage.py test loan.tests
+#python manage.py test loan.tests
 
